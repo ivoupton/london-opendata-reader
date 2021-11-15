@@ -1,0 +1,14 @@
+# production
+openpyxl==3.0.9
+sheet2dict==0.1.1
+
+fastapi==0.68.1
+requests==2.26.0
+uvicorn==0.15.0
+SQLAlchemy==1.4.25
+
+# testing and dev
+black==21.6b0
+pytest==6.2.5
+prettytable==2.2.1
+schemathesis==3.10.0
